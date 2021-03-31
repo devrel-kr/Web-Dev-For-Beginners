@@ -1,6 +1,6 @@
 # Web Development for Beginners - A Curriculum
 
-본 페이지는 한국어로 번역된 부분을 웹 브라우저에서 쉽게 확인하기 위한 목적으로 만들었습니다. 자세한 내용 및 최신 업데이트된 내용은 [원본 깃허브 저장소](https://github.com/microsoft/Web-Dev-For-Beginners)에서 확인하실 수 있습니다.
+이 페이지는 한국어로 번역된 부분을 웹 브라우저에서 쉽게 확인하기 위한 목적으로 만들었습니다. 자세한 내용 및 최신 업데이트된 내용은 [원본 깃허브 저장소](https://github.com/microsoft/Web-Dev-For-Beginners)에서 확인하실 수 있습니다.
 (This static web page is for browsing in Korean native language - for up-to-date information, please visit [original GitHub repo](https://github.com/microsoft/Web-Dev-For-Beginners), thanks!)
 
 > - 강의 콘텐츠 한국어 번역 컨트리뷰터: [minwook](https://github.com/minwook-shin)
