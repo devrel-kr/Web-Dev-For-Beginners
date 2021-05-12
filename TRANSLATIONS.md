@@ -1,6 +1,7 @@
 # Contribute by translating lessons
 
 We welcome translations for the lessons in this curriculum!
+추후에 제 이름을 추가하고 싶습니다.
 
 ## Guidelines
 
